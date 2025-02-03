@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @smohsensmousavi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- my full name is a bit long however I'm Seyed Mohsen Seyed Mousavi
+- 👀 I’m interested in Learning and Challenging everything about computers and technologies and any sciences about them.
+- 🌱 I’m currently learning and working on NextJS, React, TailwindCSS, ASP.net Core, and what I can learn about web Development
+- I'm also interested in everything related to design. UI/UX Design, Product Design, Visit card Design, logo Design,... I know it's a little weird:)
+- now I'm working in digital hardware design with FPGAs using VHDL and microcontrollers using C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-smohsensmousavi/smohsensmousavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 You can reach me on Gmail smohsensmousavi@gmail.com, and telegram t.me/smohsensmousavi.
+- ⚡ Fun fact: There are lots of fun facts about me! There is not enough space to tell them.
